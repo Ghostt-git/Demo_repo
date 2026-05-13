@@ -1,3 +1,9 @@
 this is file 3.
 
 new changes.
+
+
+git add file_name
+git commit -m "message"
+git log
+git status
